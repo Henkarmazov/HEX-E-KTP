@@ -1,0 +1,18 @@
+{
+  "ids": "HEX-001",
+    "nama": "Henkaramazov",
+    "bio": "Full Stack Programmer",
+    "jenis_kelamin": "Laki-laki",
+    "hobi": "Coding",
+    "html": "Intermediate",
+    "css": "Intermediate",
+    "js": "Advanced",
+    "gol_darah": "A",
+    "portfolio": "https://hexdev.com",
+    "bahasa_favorit": "JavaScript",
+    "status": "Active",
+    "project_fav": "HexGPT",
+    "tujuan": "Full Stack Developer",
+		"dibuat":"19-10-2023",
+		"pas_photo":"src/bronya.jpg"
+}
